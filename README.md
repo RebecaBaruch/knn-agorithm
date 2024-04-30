@@ -1,2 +1,2 @@
 # knn-agorithm
- K-Nearest Neighbors algorithm impletation
+ K-Nearest Neighbors algorithm implementation
